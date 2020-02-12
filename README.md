@@ -4,3 +4,7 @@ In this project I have classified ECG into normal and non normal types of arrhyt
 Inside the dspimage folder , L folder contains the images of Non normal heartbeat and the N folder contains the images of Normal heartbeat
 
 I have reached a decent accuracy of 80% on my CNN model
+
+Youtube Video:
+
+https://youtu.be/O1f5-yn-NZ4
